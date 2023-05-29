@@ -3,6 +3,10 @@
  * https://github.com/DevProblems/grpc-with-springboot
  * mvn compile - use this command
  * https://github.com/saturnism/grpc-by-example-java/tree/master
+ * https://medium.com/turkcell/grpc-implementation-with-spring-boot-7d6f98349d27
+ * https://github.com/grpc-ecosystem/awesome-grpc#tools
+ * https://github.com/LogNet/grpc-spring-boot-starter#grpc-server-project
+ * https://github.com/yidongnan/grpc-spring-boot-starter
  */
 
 syntax = "proto3";
